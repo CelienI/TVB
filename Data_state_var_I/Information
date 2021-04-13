@@ -1,0 +1,7 @@
+Data to go with "State variable I.ipynb"-script. 
+
+'Qone_health.h5' is the first healthy simulation. The corresponding "depressed" simulation is the following: "Qzero_depressed.h5". 
+In this last file, Q is set to zero in certain regions. 
+
+"Qzero_healthy" is the second type of healthy simulation. The corresponding "depressed" simulation is the following: "ReducedCie_depressed.h5".
+Again, C_ie is only reduced in some regions (DLPFC, orbitofrontal cortex and occipital corte (V1 and V2).
