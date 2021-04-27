@@ -4,3 +4,7 @@ COHERENCE_100sims script.ipynb
 - script compares all ROIs across all four groups (Healthy, depressed, HF-rTMS, LF-rTMS)
 - cannot run it on my computer, loading more than 200 simulations in one script gives a memory error 
 
+COHERENCE_100sims_Dep_Health.ipynb
+- same as general COHERENCE_100sims script, but here only compares healthy with depressed group
+- in later scripts, I will compare other groups 
+
