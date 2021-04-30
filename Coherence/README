@@ -8,3 +8,14 @@ COHERENCE_100sims_Dep_Health.ipynb
 - same as general COHERENCE_100sims script, but here only compares healthy with depressed group
 - in later scripts, I will compare other groups 
 
+
+
+
+UPDATE 30/04/2021
+
+- scripts actually used:
+  - HF_100simulations with coherence_original.ipynb
+  - LF_100simulations with coherence_original.ipynb
+  - Depressed_100simulations with coherence_original.ipynb
+  - Healthy_100simulations with coherence.ipynb
+  - Dealing with vstacked coherences-4 brain types_with EF.ipynb (includes effect sizes and adjusted p-values)
