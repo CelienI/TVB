@@ -1,1 +1,4 @@
 Scripts to perform statistics on alpha power differences between four brain types (healthy, depressed, HF, LF)
+
+Average Power Spectrum - visualization and p-value
+- script loads in the power spectra from the 100 simulations of each brain type and calculates p-values for differences in alpha power
